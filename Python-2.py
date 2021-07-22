@@ -126,5 +126,4 @@ type(None)
 # Define a function that prints the input but returns nothing
 def my_function(x):
  print(x)
-
- my_function("hello") == None # The output of my_funciton equals None
+my_function("hello") == None # The output of my_funciton equals None
